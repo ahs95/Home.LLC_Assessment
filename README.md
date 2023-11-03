@@ -22,4 +22,4 @@ Detailed documentation of the analysis process, data sources, preprocessing step
 
 ## Submission
 
-The final submission for the assessment includes a link to the GitHub repository containing the documentation, code, and reports.
+The final submission for the assessment includes a link to the GitHub repository containing the documentation, code, and data visualizations.
