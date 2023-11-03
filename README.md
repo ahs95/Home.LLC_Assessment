@@ -6,13 +6,13 @@ This repository contains the documentation, code, and outputs for the Home.LLC D
 
 ## Documentation
 
-Detailed documentation of the analysis process, data sources, preprocessing steps, modeling approaches, and model evaluation can be found in the [assessment documentation](documentation/assessment_documentation.md).
+Detailed documentation of the analysis process, data sources, preprocessing steps, modeling approaches, and model evaluation can be found in the [documentation](https://github.com/ahs95/Home.LLC_Assessment/blob/main/Documentation.pdf).
 
 ## Code and Outputs
 
-- Jupyter Notebook: The analysis code is available in the [Jupyter Notebook](code/home_prices_analysis.ipynb).
+- Jupyter Notebook: The analysis code is available in the [Jupyter Notebook](https://github.com/ahs95/Home.LLC_Assessment/blob/main/Model%20Building.ipynb).
 
-- Power BI Reports: Data visualizations and summary reports created in Power BI can be accessed [here](power_bi_reports/).
+- Power BI Reports: Data visualizations and summary reports created in Power BI can be accessed [here](https://github.com/ahs95/Home.LLC_Assessment/blob/main/house_index_insights.pbix).
 
 ## Model Performance
 
